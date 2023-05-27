@@ -6,7 +6,7 @@ This project is divided into two parts: Web Scraping and Data Visualization. It 
 
 Web scraping is also divided into two parts. The first part's purpose is to list out the popular posts in Philippines. What we'll get here are the links for the post.  Unfortunately, there is no API for this yet. So what I did is to send requests with proxy rotation to exceed the set limitations of bot requests 
 
-![]("./docs/scraping.png")
+![scraping.png](https://raw.githubusercontent.com/darren-sm/Reddit-PH-Frontpage/main/docs/scraping.png)
 
 
 
